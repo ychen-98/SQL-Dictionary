@@ -16,18 +16,18 @@ My SQL "Dictionary" includes a list of commonly used functions:
 
 [SQL Cheatsheet](https://learnsql.com/blog/sql-basics-cheat-sheet/): Basic SQL cheatsheet 
 
-R Projects: 
+**R** Projects: 
  - [Reconstruct pCO2 from sparse observations](https://github.com/ychen-98/pCO2-reconstruction) 
  - [Negative Binomial modeling on Seoul Bike Sharing Demand](https://github.com/ychen-98/Class-Projects/blob/main/NegBinomial/Untitled.R)
  - [Longitudinal metabolomics clustering for Alzheimer’s Disease progression](https://github.com/ychen-98/Class-Projects/blob/main/ADNI_clustering/codes.R)
  - [Simulations: Penalized generalized estimating equations for high-dimensional longitudinal data analysis](https://github.com/ychen-98/Class-Projects/blob/main/PGEE_simulation%20/code_574_simulation.Rmd)
 
-Python in Jupyter Notebook Projects: 
+**Python** in Jupyter Notebook Projects: 
  - [DNA Sequence Classification using 1-D CNN](https://github.com/ychen-98/Deep-Learning/blob/main/hw2/hw2_codes.ipynb)
  - [Find optimal vector in Poisson regression](https://github.com/ychen-98/Deep-Learning/blob/main/hw1/hw1_yc.ipynb)
 
 
-C++ Projects: 
+**C++** Projects: 
 
 - [Selection Sort Algorithm on Integers](https://github.com/ychen-98/Data-Structure/tree/master/YAO_CHEN_PA1)
 - [Occlusion Angle Calculator](https://github.com/ychen-98/Data-Structure/tree/master/YAO_CHEN_PA2)
